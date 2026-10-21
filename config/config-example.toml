@@ -1,0 +1,7 @@
+# Maximum length of one recording, in seconds.
+max_seconds = 10
+
+# Optional. Exact device names as printed by `reverse-game --list-devices`.
+# When omitted, the system default device is used.
+# input_device = "MacBook Pro Microphone"
+# output_device = "MacBook Pro Speakers"
